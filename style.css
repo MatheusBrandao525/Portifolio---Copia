@@ -17,9 +17,10 @@
     --font-action:"Josefin Slab", serif;
 }
 
-html, body{
+html{
     scroll-behavior: smooth;
 }
+
 .hamburguer{
     /* background-color: red; */
     width: 2rem;
